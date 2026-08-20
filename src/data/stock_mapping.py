@@ -92,6 +92,9 @@ STOCK_NAME_MAP = {
     "LI": "理想汽车",
     "COIN": "Coinbase",
     "MSTR": "MicroStrategy",
+    "QQQ": "纳斯达克100ETF",
+    "SPCX": "SpaceX",
+    "SKHY": "SK海力士",
     # === HK stocks (5-digit) ===
     "00700": "腾讯控股",
     "03690": "美团",
@@ -158,6 +161,9 @@ STOCK_ENGLISH_NAME_MAP: Dict[str, Tuple[str, ...]] = {
     "LI": ("Li Auto Inc.", "Li Auto"),
     "COIN": ("Coinbase Global, Inc.", "Coinbase"),
     "MSTR": ("MicroStrategy Incorporated", "MicroStrategy"),
+    "QQQ": ("Invesco QQQ Trust", "Nasdaq-100"),
+    "SPCX": ("Space Exploration Technologies Corp.", "SpaceX"),
+    "SKHY": ("SK hynix Inc.", "SK hynix"),
     # === HK stocks (5-digit) ===
     "00700": ("Tencent Holdings", "Tencent"),
     "03690": ("Meituan",),
